@@ -1,0 +1,2 @@
+_ Dùng tiếng Việt cho chức năng Food recognition
+_ Thêm trang hướng dẫn front end trên web
